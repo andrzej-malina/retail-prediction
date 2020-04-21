@@ -1,2 +1,2 @@
 # retail-prediction
-Retail prediction - DW competition
+Retail prediction - predition whether goods sold by e-commerce shop will be returned or not
